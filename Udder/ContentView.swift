@@ -14,6 +14,7 @@ struct ContentView: View {
                 .padding()
             Label("Fresh Milk, On Demand.", systemImage: "42.circle")
             Image("Milk")
+            Text("Milk Image")
         }
     }
 }
