@@ -15,6 +15,7 @@ struct ContentView: View {
             Label("Fresh Milk, On Demand.", systemImage: "42.circle")
             Image("Milk")
             Text("Milk Image")
+            Text("We can offer you a lot of milk options from home.")
         }
     }
 }
