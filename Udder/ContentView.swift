@@ -13,6 +13,7 @@ struct ContentView: View {
             Text("Udder App")
                 .padding()
             Label("Fresh Milk, On Demand.", systemImage: "42.circle")
+            Image("Milk")
         }
     }
 }
